@@ -3,7 +3,7 @@
         "message": "Проширење додаје uTorrent веб корисничко окружење у ваш прегледач"
     },
     "lang": {
-        "message": "sr"
+        "message": "fr"
     },
     "sizeList": {
         "message": "[\"B\", \"kB\", \"MB\", \"GB\", \"TB\", \"PB\", \"EB\"]"
@@ -119,7 +119,7 @@
         "message": "Без ознаке"
     },
     "OV_FL_CHECKED": {
-        "message": "Checked",
+        "message": "Проверено",
         "modifed": 1
     },
     "OV_FL_DOWNLOADING": {
@@ -142,10 +142,10 @@
         "message": "Отпремаље на чекању"
     },
     "OV_FL_STOPPED": {
-        "message": "Stopped"
+        "message": "Заустављено"
     },
     "MF_DONT": {
-        "message": "Don't Download"
+        "message": "Не преузимај"
     },
     "MF_HIGH": {
         "message": "Висок",
@@ -196,69 +196,69 @@
         "message": "избриши торент и податке"
     },
     "DLG_RSSDOWNLOADER_24": {
-        "message": "Download"
+        "message": "Преузми"
     },
     "MENU_UNLIMITED": {
-        "message": "Unlimited"
+        "message": "Меограничено"
     },
     "Open_file": {
-        "message": "Get file",
+        "message": "Отвори датотеку",
         "originalKey": "Open file"
     },
     "ST_CAPT_WEBUI": {
-        "message": "Web UI"
+        "message": Веб интерфејс"
     },
     "MM_FILE_ADD_URL": {
-        "message": "Add Torrent from URL..."
+        "message": "Додај торент са URL..."
     },
     "STM_TORRENTS_RESUMEALL": {
-        "message": "Resume all torrents"
+        "message": "Настави сва преузимања"
     },
     "STM_TORRENTS_PAUSEALL": {
-        "message": "Pause all torrents"
+        "message": "Паузирај све торенте"
     },
     "DLG_BTN_CLOSE": {
-        "message": "Close"
+        "message": "Затвори"
     },
     "OV_CONFIRM_DELETE_ONE": {
-        "message": "Are you sure you want to remove the selected torrent?"
+        "message": "Да ли сте сигурни да желите да уклоните одабрани торент?"
     },
     "OV_CONFIRM_DELETE_MULTIPLE": {
-        "message": "Are you sure you want to remove the %d selected torrents?"
+        "message": "Да ли сте сигурни да желите да уклоните одабране торенте?"
     },
     "DLG_BTN_YES": {
-        "message": "Yes"
+        "message": "Да"
     },
     "DLG_BTN_NO": {
-        "message": "No"
+        "message": "Не"
     },
     "DLG_BTN_CANCEL": {
-        "message": "Cancel"
+        "message": "Откажи"
     },
     "DLG_BTN_APPLY": {
-        "message": "Apply"
+        "message": "Примени"
     },
     "DLG_BTN_OK": {
-        "message": "OK"
+        "message": "ОК"
     },
     "ST_CAPT_FOLDER": {
-        "message": "Directories",
+        "message": "Фасцикле",
         "modifed": 1
     },
     "Paste_a_torrent_URL": {
-        "message": "Paste a torrent URL",
+        "message": "Налепи URL торента",
         "originalKey": "Paste a torrent or feed URL",
         "modifed": 1
     },
     "OV_NEWLABEL_CAPTION": {
-        "message": "Enter label",
+        "message": "Унесите ознаку",
         "modifed": 1
     },
     "DLG_SETTINGS_4_CONN_16": {
-        "message": "Username"
+        "message": "Корисничко име"
     },
     "DLG_SETTINGS_4_CONN_18": {
-        "message": "Password"
+        "message": "Лозинка"
     },
     "PRS_COL_IP": {
         "message": "IP"
@@ -267,47 +267,47 @@
         "message": "Port"
     },
     "ST_CAPT_ADVANCED": {
-        "message": "Advanced"
+        "message": "Напредно"
     },
     "resume": {
-        "message": "Resume",
+        "message": "Настави",
         "originalKey": "STM_TORRENTS_RESUMEALL",
         "modifed": 1
     },
     "enterNewLabel": {
-        "message": "Enter the new label for the selected torrent",
+        "message": "Унесите нову ознаку за одабране торенте",
         "originalKey": "OV_NEWLABEL_TEXT",
         "modifed": 1
     },
     "defaultPath": {
-        "message": "Default directory",
+        "message": "Подразумевана фасцикла",
         "originalKey": "DLG_SETTINGS_3_PATHS_10",
         "modifed": 1
     },
     "add": {
-        "message": "Add"
+        "message": "Додај"
     },
     "available": {
-        "message": "Accessible",
+        "message": "Доступно",
         "originalKey": "STATUS_REMOTE_01"
     },
     "up": {
-        "message": "Move Up",
+        "message": "Помери нагоре",
         "originalKey": "ML_QUEUEUP",
         "modifed": 1
     },
     "down": {
-        "message": "Move Down",
+        "message": "Помери надоле",
         "originalKey": "ML_QUEUEDOWN",
         "modifed": 1
     },
     "update": {
-        "message": "Update",
+        "message": "Ажурирај",
         "originalKey": "DLG_RSSDOWNLOADER_22",
         "modifed": 1
     },
     "deleteSelected": {
-        "message": "Delete selected",
+        "message": "Избриши одабрано",
         "originalKey": "DLG_RSSDOWNLOADER_35",
         "modifed": 1
     },
@@ -315,28 +315,28 @@
 
 
     "torrentAdded": {
-        "message": "Torrent was added!"
+        "message": "Торент је додат!"
     },
     "unexpectedError": {
-        "message": "Unexpected error!"
+        "message": "Неочекивана грешка!"
     },
     "fileSizeError": {
-        "message": "File is too large"
+        "message": "Датотека је сувише велика"
     },
     "addInTorrentClient": {
-        "message": "Add in uTorrent"
+        "message": "Додај у uTorrent"
     },
     "enterNewDirPath": {
-        "message": "Enter the path to the new directory"
+        "message": "Унесите путању до нове фасцикле"
     },
     "torrentFileExists": {
-        "message": "Probably the torrent file already exists!"
+        "message": "Вероватно торент датотека већ постоји!"
     },
     "currentDirectory": {
-        "message": "Current directory"
+        "message": "Тренутна фасцикла"
     },
     "openInTab": {
-        "message": "Open in tab"
+        "message": "Отвори у фасцикли"
     },
     "optClient": {
         "message": "uTorrent"
