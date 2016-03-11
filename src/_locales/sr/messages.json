@@ -1,6 +1,6 @@
 {
     "appDesc": {
-        "message": "Проширење додаје uTorrent веб корисничко окружење GUI у ваш прегледач"
+        "message": "Проширење додаје uTorrent веб корисничко окружење у ваш прегледач"
     },
     "lang": {
         "message": "sr"
@@ -342,38 +342,38 @@
         "message": "uTorrent"
     },
     "optMain": {
-        "message": "Main"
+        "message": "Опште"
     },
     "optNotify": {
-        "message": "Notify"
+        "message": "Обавештења"
     },
     "optCtx": {
-        "message": "Context menu"
+        "message": "Контекстни мени"
     },
     "backup": {
-        "message": "Backup"
+        "message": "Резервна копија"
     },
     "restore": {
-        "message": "Restore"
+        "message": "Враћање подешавања"
     },
     "useSSL": {
-        "message": "Use SSL"
+        "message": "Користи SSL"
     },
     "path": {
-        "message": "Path",
+        "message": "Путања",
         "note": "URL path"
     },
     "hideSeedStatusItem": {
-        "message": "Hide torrents with status \"Seeding\""
+        "message": "Сакриј торенте са статусом \"Отпремам...\""
     },
     "hideFnishStatusItem": {
-        "message": "Hide torrents with status \"Finished\""
+        "message": "Сакриј торенте са статусом \"Завршено\""
     },
     "showSpeedGraph": {
-        "message": "Show speed graph"
+        "message": "Прикажи графикон брзине"
     },
     "popupHeight": {
-        "message": "Height popup window"
+        "message": "Висина искачућег прозора"
     },
     "px": {
         "message": "px"
@@ -382,117 +382,117 @@
         "message": "ms"
     },
     "popupUpdateInterval": {
-        "message": "Update interval the list of torrents"
+        "message": "Интервал ажурирања списка торената"
     },
     "fixCirilicIf": {
-        "message": "Fix Cyrillic if..."
+        "message": "Исправи ћирилицу ако..."
     },
     "fixCirilicTitle": {
-        "message": "Incorrectly displays the names of the torrents"
+        "message": "Неправилно приказује имена торената"
     },
     "fixCirilicTorrentPath": {
-        "message": "Incorrectly sets the directory to the newly added torrent"
+        "message": "Неправилно додељује фасиклу новом доданом торенту"
     },
     "showNotificationOnDownloadCompleate": {
-        "message": "Show notify when completing download"
+        "message": "Прикажи обавештење када је преузимање завршено"
     },
     "displayActiveTorrentCountIcon": {
-        "message": "Displays the number of downloading torrents on the extension icon"
+        "message": "Прикажи број торената који се преузимају на иконици проширења"
     },
     "backgroundUpdateInterval": {
-        "message": "Interval background update the list of torrents"
+        "message": "Интервал ажурирања списка торената у позадини"
     },
     "notificationTimeout": {
-        "message": "Hide notification after"
+        "message": "Сакриј обавештење након"
     },
     "folderContextMenu": {
-        "message": "Show list of directories"
+        "message": "Прикажи списак фасцикли"
     },
     "labelContextMenu": {
-        "message": "Show list of labels"
+        "message": "Прикжи листу ознака"
     },
     "selectDownloadCategoryOnAddItemFromContextMenu": {
-        "message": "Open \"Downloading\" category when adding a torrent"
+        "message": "Отвори категорију \"Преузимам...\" приликом додавања торента"
     },
     "treeViewContextMenu": {
-        "message": "Tree view context menu"
+        "message": "Приказ стабла контекстног менија"
     },
     "showDefaultFolderContextMenuItem": {
-        "message": "Show default directory"
+        "message": "Прикажи подразумевану фасциклу"
     },
     "dirList": {
-        "message": "List of directories"
+        "message": "Списак фасцикли"
     },
     "subPath": {
-        "message": "Sub-path"
+        "message": "Под путања"
     },
     "labelList": {
-        "message": "List of labels"
+        "message": "Списак ознака"
     },
     "optSaveInCloud": {
-        "message": "Save in cloud"
+        "message": "Сачувај у облаку"
     },
     "toRestore": {
-        "message": "Restore"
+        "message": "Врати"
     },
     "optGetFromCloud": {
-        "message": "Get settings from cloud"
+        "message": "Врати подешавања из облака"
     },
     "optClearCloudStorage": {
-        "message": "Remove all settings in cloud"
+        "message": "Уклони сва подешавања у облаку"
     },
     "showFileList": {
-        "message": "List of files"
+        "message": "Списак датотека"
     },
     "selectAll": {
-        "message": "Select all"
+        "message": "Одабери све"
     },
     "refresh": {
-        "message": "Refresh"
+        "message": "Освежи"
     },
     "checkSettings": {
-        "message": "Сheck the settings"
+        "message": "Провери подешавања"
     },
     "showFreeSpace": {
-        "message": "Display the number of available disk space"
+        "message": "Прикажи количину слободног простора на диску"
     },
     "freeSpace": {
-        "message": "Free space"
+        "message": "Слободан простор"
     },
     "help": {
-        "message": "Help"
+        "message": "Помоћ"
     },
     "helpS1": {
-        "message": "Open uTorrent application"
+        "message": "Отвори uTorrent апликацију"
     },
     "helpS2": {
-        "message": "Go in \"Options\" > \"Preferences\""
+        "message": "Иди на \"Опције\" > \"Подешавања\""
     },
     "helpS3": {
-        "message": "Open \"Advanced\" section > \"Web UI\""
+        "message": "Отвори \"Напедно\" section > \"Веб-интерфејс\""
     },
     "helpS4": {
-        "message": "Check the box \"Enable Web UI\", enter \"Username\" and \"Password\""
+        "message": "Чекирај поље \"Омогући Веб-интерфејс\", унеси \"Корисничко име\" и \"Лозинка\""
     },
     "helpS5": {
-        "message": "Check the box \"Alternative listening port\", enter port number 8080"
+        "message": "Чекирај поље \"алтернативни порт који очекује податке\", унеси број порта 8080"
     },
     "helpS6": {
-        "message": "Now enter \"Username\", \"Password\", \"IP\" and \"Port\". If you do not know your \"IP\" try enter 127.0.0.1"
+        "message": "Сада унеси \"Корисничко име\", \"Лозинка\", \"IP\" и \"Port\". Ако не знаш свој \"IP\" покушај са 127.0.0.1"
     },
     "helpS7": {
-        "message": "Press the button \"Сheck the settings\""
+        "message": "Притисни дугме \"Провери подешавања\""
     },
     "helpImg": {
         "message": "images/help_how_to_en.png"
     },
     "badgeColor": {
-        "message": "Notification color"
+        "message": "Боја обавештења"
     },
     "addItem": {
-        "message": "Add item"
+        "message": "Додај ставку"
     },
     "shortName": {
-        "message": "Short name"
+        "message": "Скраћено име"
     }
 }
