@@ -206,7 +206,7 @@
         "originalKey": "Open file"
     },
     "ST_CAPT_WEBUI": {
-        "message": Веб интерфејс"
+        "message": "Веб интерфејс"
     },
     "MM_FILE_ADD_URL": {
         "message": "Додај торент са URL..."
