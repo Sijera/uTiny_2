@@ -73,73 +73,73 @@
         "message": "Доступност"
     },
     "OV_COL_AVAIL_SHORT": {
-        "message": "Avail.",
+        "message": "Доступ.",
         "originalKey": "OV_COL_AVAIL"
     },
     "OV_COL_LABEL": {
-        "message": "Label"
+        "message": "Ознака"
     },
     "OV_COL_DATE_ADDED": {
-        "message": "Added"
+        "message": "Додато"
     },
     "OV_COL_DATE_COMPLETED": {
-        "message": "Completed On"
+        "message": "Завршено"
     },
     "Actions": {
-        "message": "Actions"
+        "message": "Акције"
     },
     "FI_COL_NAME": {
-        "message": "Name"
+        "message": "Име"
     },
     "FI_COL_SIZE": {
-        "message": "Size"
+        "message": "Величина"
     },
     "FI_COL_PRIO": {
-        "message": "Priority"
+        "message": "Приоритет"
     },
     "OV_FL_SEEDING": {
-        "message": "Seeding"
+        "message": "Отпремам..."
     },
     "OV_CAT_ACTIVE": {
-        "message": "Active"
+        "message": "Активно"
     },
     "OV_CAT_ALL": {
-        "message": "All"
+        "message": "Све"
     },
     "OV_CAT_COMPL": {
-        "message": "Completed"
+        "message": "Преузето"
     },
     "OV_CAT_DL": {
-        "message": "Downloading"
+        "message": "Преузимам..."
     },
     "OV_CAT_INACTIVE": {
-        "message": "Inactive"
+        "message": "Неактивно"
     },
     "OV_CAT_NOLABEL": {
-        "message": "No Label"
+        "message": "Без ознаке"
     },
     "OV_FL_CHECKED": {
         "message": "Checked",
         "modifed": 1
     },
     "OV_FL_DOWNLOADING": {
-        "message": "Downloading"
+        "message": "Преузимам..."
     },
     "OV_FL_ERROR": {
-        "message": "Error",
+        "message": "Грешка",
         "modifed": 1
     },
     "OV_FL_FINISHED": {
-        "message": "Finished"
+        "message": "Завршено"
     },
     "OV_FL_PAUSED": {
-        "message": "Paused"
+        "message": "Паузирано"
     },
     "OV_FL_QUEUED": {
-        "message": "Queued"
+        "message": "На чекаљу"
     },
     "OV_FL_QUEUED_SEED": {
-        "message": "Queued Seed"
+        "message": "Отпремаље на чекању"
     },
     "OV_FL_STOPPED": {
         "message": "Stopped"
@@ -148,52 +148,52 @@
         "message": "Don't Download"
     },
     "MF_HIGH": {
-        "message": "High",
+        "message": "Висок",
         "modifed": 1
     },
     "MF_LOW": {
-        "message": "Low",
+        "message": "Низак",
         "modifed": 1
     },
     "MF_NORMAL": {
-        "message": "Normal",
+        "message": "Нормалан",
         "modifed": 1
     },
     "ML_START": {
-        "message": "Start"
+        "message": "Покрени"
     },
     "ML_PAUSE": {
-        "message": "Pause"
+        "message": "Паузирај"
     },
     "ML_STOP": {
-        "message": "Stop"
+        "message": "Заустави"
     },
     "OV_REMOVE_LABEL": {
-        "message": "Remove Label"
+        "message": "Иклони ознаку"
     },
     "OV_NEW_LABEL": {
-        "message": "New Label..."
+        "message": "Нова ознака..."
     },
     "ML_FORCE_START": {
-        "message": "Force Start"
+        "message": "Наметни покретање"
     },
     "ML_FORCE_RECHECK": {
-        "message": "Force Re-Check"
+        "message": "Наметни поновну проверу"
     },
     "ML_REMOVE": {
-        "message": "Remove"
+        "message": "Уклони"
     },
     "ML_REMOVE_AND": {
-        "message": "Remove And"
+        "message": "Уклони и"
     },
     "ML_DELETE_TORRENT": {
-        "message": "Delete .torrent"
+        "message": "избриши торент"
     },
     "ML_DELETE_DATA": {
-        "message": "Delete Data"
+        "message": "избриши податке"
     },
     "ML_DELETE_DATATORRENT": {
-        "message": "Delete .torrent + Data"
+        "message": "избриши торент и податке"
     },
     "DLG_RSSDOWNLOADER_24": {
         "message": "Download"
