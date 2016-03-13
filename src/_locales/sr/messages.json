@@ -18,7 +18,7 @@
         "message": "Име"
     },
     "OV_COL_ORDER": {
-        "message": "Чекање",
+        "message": "Ред чекања",
         "modifed": 1,
         "originalKey": "OV_FL_QUEUED"
     },
@@ -139,7 +139,7 @@
         "message": "На чекању"
     },
     "OV_FL_QUEUED_SEED": {
-        "message": "Отпремаље на чекању"
+        "message": "Отпремање на чекању"
     },
     "OV_FL_STOPPED": {
         "message": "Заустављено"
