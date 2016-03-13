@@ -376,10 +376,10 @@
         "message": "Висина искачућег прозора"
     },
     "px": {
-        "message": "px"
+        "message": "(у пикселима)"
     },
     "ms": {
-        "message": "ms"
+        "message": "(у милисекундама)"
     },
     "popupUpdateInterval": {
         "message": "Интервал ажурирања списка торената"
